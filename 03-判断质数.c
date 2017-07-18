@@ -11,8 +11,8 @@ int  main()
 		i++;
 	}
 	if(i==n)
-	printf("YES");
+		printf("YES");
 	else
-	printf("NO");
+		printf("NO");
 	return 0;
 }
